@@ -1,6 +1,6 @@
 <br id="inicio">
 
-<h1 align="center">API 2° Semestre de 2022 - The Achievers & UOL :briefcase:</h1>
+<h1 align="center">API 2° Semestre de 2022 - The Achievers & Tecsus</h1>
  <p align="center">
      <a href="#sobre">Sobre</a> • 
      <a href="#techtools">Ferramentas e Tecnologias</a> •
@@ -94,14 +94,14 @@ Função | Nome | GitHub & LinkedIn
 -------|------|-------------------
 Scrum Master | Mariana Ayumi Tamay | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/Mariayumi) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mariana-tamay-159582222/)
 Product Owner | Tais Salomão | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/taissalomao) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/tais-salomao/) 
-Dev Team | Antônio | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>]() [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />]()
+Dev Team | Antônio Alex | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/Nepoun) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/)
 Dev Team | Gabriel Souza Bicho Nunes | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/ZeroPirata) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/)
 Dev Team | Maria Clara Alves de Faria | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/mclaralvs) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mclaralvs/)
 Dev Team | Matheus Henrique Lemes Sakuragui | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/MatheusSakuragui) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/)
 
 > Instituição: Fatec São José dos Campos - Prof. Jessen Vidal
 > 
-> Curso: Desenvolvimento de Software Multiplataforma/3º Semestre
+> Curso: Desenvolvimento de Software Multiplataforma/4º Semestre
  
 <a href="#inicio">[Voltar ao início]</a>
 
