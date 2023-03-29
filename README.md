@@ -60,10 +60,14 @@ Sprint ID | Data | Histórico | Status |
  ### :bookmark_tabs: Backlogs e User Stories
 
 <h4> Backlog do produto</h4>
-<br></br>
+<br>
+<img src="API 2023-1 - Product Backlog.jpg"/>
+</br>
 
 <h4> User Stories</h4>
-<br></br>
+<br>
+<img src="API 2023-1 - User Stories.jpg"/>
+</br>
 
 <span id="documentacao">
  
