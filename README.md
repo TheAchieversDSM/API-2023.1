@@ -74,7 +74,9 @@ Sprint ID | Data | Histórico | Status |
  ### :clipboard: Documentação
  
 <h4>Modelo de dados</h4>
-<br></br>
+<br>
+<img src="API 2023-1 - Modelo BD.jpg"/>
+</br>
 
 <h4>Diagrama de classes</h4>
 <br></br>
