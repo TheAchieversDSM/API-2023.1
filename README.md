@@ -66,7 +66,7 @@ Sprint ID | Data | Histórico | Status |
 
 <h4> Backlog do produto</h4>
 <br>
-<img src="API 2023-1 - Backlog Produto.jpg"/>
+<img src="API 2023-1 - ProductBacklog.jpg"/>
 </br>
 
 <h4> User Stories</h4>
