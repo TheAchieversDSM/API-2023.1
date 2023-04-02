@@ -21,6 +21,8 @@
 
  #### 📌 Status do projeto: Em andamento.
   
+ <br>
+ 
  <span id="techtools">
  
  ### :hammer_and_wrench: Ferramentas e Tecnologias
@@ -39,6 +41,8 @@
 <img src="https://img.shields.io/badge/MySQL-5751D3?style=for-the-badge&logo=mysql&logoColor=EDF0F9"/> 
 </p> 
   
+<br>
+
 <span id="branches">
  
 ### 🌱 Branches
@@ -47,6 +51,8 @@ Nome | Descritivo
 Main | Branch principal, a versão "estável" do código usada em produção.
 Develop | Branch de desenvolvimento, usada para integrar diferentes funcionalidades ou correções antes de mesclá-las com a branch "main".
 Fix | Branch de correções, usada para corrigir bugs críticos no código que estão afetando a branch de desenvolvimento, a "develop". 
+
+<br>
 
 <span id="commits">
 
@@ -60,6 +66,8 @@ Identificador | Nome | Descritivo
 📋 | Task | Usado para indicar commits relacionados à uma tarefa específica.
 🧪 | Test | Usado para indicar commits relacionados a testes.
 
+<br>
+
 <span id="entregas">
 
 ### :dart: Entregas
@@ -71,13 +79,16 @@ Sprint ID | Data | Histórico | Status |
 #3 | 24.04.2023 - 14.05.2023 | 🛑 | 🛑
 #4 | 15.05.2023 - 04.06.2023 | 🛑 | 🛑
 
+<br>
+
 <span id="metodologia">
 
 ### :thought_balloon: Integração e Entrega Contínua
 <p>
 A integração contínua e a entrega contínua são práticas fundamentais para o desenvolvimento eficiente e com qualidade de projetos de software. Com a integração contínua, é possível detectar e corrigir problemas de integração mais cedo, enquanto a entrega contínua permite a rápida disponibilização de novas funcionalidades para os usuários finais. Para implementar essas práticas, é necessário utilizar ferramentas e técnicas específicas, como sistemas de integração contínua, testes automatizados e ferramentas de deploy automatizado, que não só tornam o processo de desenvolvimento de software mais eficiente, mas também criam um ambiente colaborativo e ágil, focado em entregar valor ao usuário final.
 </p>
-  
+
+<br>
 
 <span id="backlog">
  
@@ -98,6 +109,8 @@ A integração contínua e a entrega contínua são práticas fundamentais para 
 <img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/API%202023-1%20-%20User%20Stories.jpg" width="1000"/>
 </br>
 
+<br>
+
 <span id="documentacao">
  
  ### :clipboard: Documentação
@@ -105,7 +118,9 @@ A integração contínua e a entrega contínua são práticas fundamentais para 
 <h4>Modelo de dados</h4>
 <br>
 <img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/API%202023-1%20-%20Modelo%20BD.jpg" width="1000"/>
-<br></br>
+<br>
+
+<br>
 
 > 🔗 Links gerais
 > <ul>
@@ -114,6 +129,8 @@ A integração contínua e a entrega contínua são práticas fundamentais para 
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2023.1-Front-End-Web.git">acesse aqui!</a></li>
 > <li>Repositório do Embarcado: <a href="https://github.com/TheAchieversDSM/API-2023.1-Back-End-Shipped.git">acesse aqui!</a></li>
 > </ul>
+
+<br>
 
 <span id="equipe">
 
@@ -127,8 +144,12 @@ Dev Team | Gabriel Souza Bicho Nunes | [<img src="https://img.shields.io/badge/g
 Dev Team | Maria Clara Alves de Faria | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/mclaralvs) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mclaralvs/)
 Dev Team | Matheus Henrique Lemes Sakuragui | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/MatheusSakuragui) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/)
 
+<br>
+
 > Instituição: Fatec São José dos Campos - Prof. Jessen Vidal
 > 
 > Curso: Desenvolvimento de Software Multiplataforma/4º Semestre
+ 
+<br>
  
 <a href="#inicio">[Voltar ao início]</a>
