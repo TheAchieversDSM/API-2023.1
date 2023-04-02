@@ -63,6 +63,7 @@ Identificador | Nome | Descritivo
 📚 | Docs | Usado para indicar commits relacionados à documentação.
 ✨ | Feat | Usado para indicar commits relacionados à inclusão de features.
 🐛 | Fix | Usado para indicar commits relacionados à correção de "bugs".
+🌱 | Merge | Usado para indicar commits relacionados a "merges".
 📋 | Task | Usado para indicar commits relacionados à uma tarefa específica.
 🧪 | Test | Usado para indicar commits relacionados a testes.
 
