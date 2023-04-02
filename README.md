@@ -4,6 +4,8 @@
  <p align="center">
      <a href="#sobre">Sobre</a> • 
      <a href="#techtools">Ferramentas e Tecnologias</a> •
+     <a href="#branches">Branches</a> • 
+     <a href="#commits">Identificadores de Commits</a> • 
      <a href="#entregas">Entregas</a> • 
      <a href="#metodologia">Integração e Entrega Contínua</a> •
      <a href="#backlog">Backlogs e User Stories</a> •
@@ -37,6 +39,27 @@
 <img src="https://img.shields.io/badge/MySQL-5751D3?style=for-the-badge&logo=mysql&logoColor=EDF0F9"/> 
 </p> 
   
+<span id="branches">
+ 
+### 🌱 Branches
+Nome | Descritivo
+-----|-------------------
+Main | Branch principal, a versão "estável" do código usada em produção.
+Develop | Branch de desenvolvimento, usada para integrar diferentes funcionalidades ou correções antes de mesclá-las com a branch "main".
+Fix | Branch de correções, usada para corrigir bugs críticos no código que estão afetando a branch de desenvolvimento, a "develop". 
+
+<span id="commits">
+
+### 🏷 Identificadores de Commits
+Identificador | Nome | Descritivo
+--------------|------|-------------
+🔥 | Delete | Usado para indicar commits relacionados à exclusão de algum recurso.
+📚 | Docs | Usado para indicar commits relacionados à documentação.
+✨ | Feat | Usado para indicar commits relacionados à inclusão de features.
+🐛 | Fix | Usado para indicar commits relacionados à correção de "bugs".
+📋 | Task | Usado para indicar commits relacionados à uma tarefa específica.
+🧪 | Test | Usado para indicar commits relacionados a testes.
+
 <span id="entregas">
 
 ### :dart: Entregas
@@ -61,17 +84,17 @@ Sprint ID | Data | Histórico | Status |
  
 <h4> Épicos</h4>
 <br>
-<img src="API 2023-1 - Epicos.jpg"/>
+<img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/API%202023-1%20-%20Epicos.jpg" width="1000"/>
 </br>
 
 <h4> Backlog do produto</h4>
 <br>
-<img src="API 2023-1 - ProductBacklog.jpg"/>
+<img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/API%202023-1%20-%20ProductBacklog.jpg" width="1000"/>
 </br>
 
 <h4> User Stories</h4>
 <br>
-<img src="API 2023-1 - User Stories.jpg"/>
+<img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/API%202023-1%20-%20User%20Stories.jpg" width="1000"/>
 </br>
 
 <span id="documentacao">
@@ -80,8 +103,8 @@ Sprint ID | Data | Histórico | Status |
  
 <h4>Modelo de dados</h4>
 <br>
-<img src="API 2023-1 - Modelo BD.jpg"/>
-</br>
+<img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/API%202023-1%20-%20Modelo%20BD.jpg" width="1000"/>
+<br></br>
 
 > 🔗 Links gerais
 > <ul>
