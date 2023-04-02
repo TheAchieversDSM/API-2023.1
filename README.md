@@ -83,9 +83,6 @@ Sprint ID | Data | Histórico | Status |
 <img src="API 2023-1 - Modelo BD.jpg"/>
 </br>
 
-<h4>Diagrama de classes</h4>
-<br></br>
-
 > 🔗 Links gerais
 > <ul>
 > <li>Wireframe: <a href="https://www.figma.com/file/MvYhyKq2TaN2vVJoPkaEJZ/API-2023.1?node-id=0%3A1&t=m60PmBQvBUdoQvKY-1">acesse aqui!</a></li>
