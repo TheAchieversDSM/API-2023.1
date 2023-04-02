@@ -75,6 +75,7 @@ Sprint ID | Data | Histórico | Status |
 
 ### :thought_balloon: Integração e Entrega Contínua
 <p>
+A integração contínua e a entrega contínua são práticas fundamentais para o desenvolvimento eficiente e com qualidade de projetos de software. Com a integração contínua, é possível detectar e corrigir problemas de integração mais cedo, enquanto a entrega contínua permite a rápida disponibilização de novas funcionalidades para os usuários finais. Para implementar essas práticas, é necessário utilizar ferramentas e técnicas específicas, como sistemas de integração contínua, testes automatizados e ferramentas de deploy automatizado, que não só tornam o processo de desenvolvimento de software mais eficiente, mas também criam um ambiente colaborativo e ágil, focado em entregar valor ao usuário final.
 </p>
   
 
