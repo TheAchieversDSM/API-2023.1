@@ -43,32 +43,6 @@
   
 <br>
 
-<span id="branches">
- 
-### 🌱 Branches
-Nome | Descritivo
------|-------------------
-Main | Branch principal, a versão "estável" do código usada em produção.
-Develop | Branch de desenvolvimento, usada para integrar diferentes funcionalidades ou correções antes de mesclá-las com a branch "main".
-Fix | Branch de correções, usada para corrigir bugs críticos no código que estão afetando a branch de desenvolvimento, a "develop". 
-
-<br>
-
-<span id="commits">
-
-### 🏷 Identificadores de Commits
-Identificador | Nome | Descritivo
---------------|------|-------------
-🔥 | Delete | Usado para indicar commits relacionados à exclusão de algum recurso.
-📚 | Docs | Usado para indicar commits relacionados à documentação.
-✨ | Feat | Usado para indicar commits relacionados à inclusão de features.
-🐛 | Fix | Usado para indicar commits relacionados à correção de "bugs".
-🌱 | Merge | Usado para indicar commits relacionados a "merges".
-📋 | Task | Usado para indicar commits relacionados à uma tarefa específica.
-🧪 | Test | Usado para indicar commits relacionados a testes.
-
-<br>
-
 <span id="entregas">
 
 ### :dart: Entregas
