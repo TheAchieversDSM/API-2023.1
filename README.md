@@ -51,7 +51,7 @@ Sprint ID | Data | Histórico | Status |
 ----------|------|-----------|--------|
 #1 | 13.03.2023 - 02.04.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/API---2023.1---Sprint-1">Relatório</a>| ✔ 
 #2 | 03.04.2023 - 23.04.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/API---2023.1---Sprint-2">Relatório</a> | ✔
-#3 | 24.04.2023 - 14.05.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/API---2023.1---Sprint-3">Relatório</a> | ✔
+#3 | 24.04.2023 - 14.05.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/API-2023.1-Sprint-3">Relatório</a> | ✔
 #4 | 15.05.2023 - 04.06.2023 | 🛑 | 🛑
 
 <br>
