@@ -62,10 +62,10 @@ Sprint ID | Data | Histórico | Status |
 <p>
 A integração contínua e a entrega contínua são práticas fundamentais para o desenvolvimento eficiente e com qualidade de projetos de software. Com a integração contínua, é possível detectar e corrigir problemas de integração mais cedo, enquanto a entrega contínua permite a rápida disponibilização de novas funcionalidades para os usuários finais. Para implementar essas práticas, é necessário utilizar ferramentas e técnicas específicas, como sistemas de integração contínua, testes automatizados e ferramentas de deploy automatizado, que não só tornam o processo de desenvolvimento de software mais eficiente, mas também criam um ambiente colaborativo e ágil, focado em entregar valor ao usuário final.
 </p>
-> 🔗 Link:
-> <ul>
-> <li>Documentação CI/CD: <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/CI-CD">acesse aqui!</a></li>
-> </ul>
+🔗 Link:
+<ul>
+<li>Documentação CI/CD: <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/CI-CD">acesse aqui!</a></li>
+</ul>
  
 <br>
 
