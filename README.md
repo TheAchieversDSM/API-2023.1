@@ -106,7 +106,7 @@ A integração contínua e a entrega contínua são práticas fundamentais para 
 > <li>Wireframe: <a href="https://www.figma.com/file/MvYhyKq2TaN2vVJoPkaEJZ/API-2023.1?node-id=0%3A1&t=m60PmBQvBUdoQvKY-1">acesse aqui!</a></li>
 > <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2023.1-Back-End-System.git">acesse aqui!</a></li>
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2023.1-Front-End-Web.git">acesse aqui!</a></li>
-> <li>Repositório do Embarcado: <a href="https://github.com/TheAchieversDSM/API-2023.1-Back-End-Shipped.git">acesse aqui!</a></li>
+> <li>Repositório do Embarcado: <a href="https://github.com/TheAchieversDSM/API-2023.1-Back-End-Embedded.git">acesse aqui!</a></li>
 > </ul>
 
 <br>
