@@ -64,7 +64,8 @@ A integração contínua e a entrega contínua são práticas fundamentais para 
 </p>
 🔗 Link:
 <ul>
-<li>Documentação CI/CD: <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/CI-CD">acesse aqui!</a></li>
+<li>Documentação de CI/CD no Wiki: <a href="https://github.com/TheAchieversDSM/API-2023.1/wiki/CI-CD">acesse aqui!</a></li>
+<li>Documentação de CI/CD oficial: <a href="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/CI-CD.pdf">acesse aqui!</a></li>
 </ul>
  
 <br>
