@@ -97,7 +97,7 @@ A integração contínua e a entrega contínua são práticas fundamentais para 
  
 <h4>Modelo de dados</h4>
 <br>
-<img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/ModeloBanco.jpg" width="1000"/>
+<img src="https://github.com/TheAchieversDSM/API-2023.1/blob/main/images/ModeloBancoDados.jpg" width="1000"/>
 <br>
 
 <br>
