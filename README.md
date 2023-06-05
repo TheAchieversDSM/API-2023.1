@@ -4,8 +4,6 @@
  <p align="center">
      <a href="#sobre">Sobre</a> • 
      <a href="#techtools">Ferramentas e Tecnologias</a> •
-     <a href="#branches">Branches</a> • 
-     <a href="#commits">Identificadores de Commits</a> • 
      <a href="#entregas">Entregas</a> • 
      <a href="#metodologia">Integração e Entrega Contínua</a> •
      <a href="#backlog">Backlogs e User Stories</a> •
@@ -19,7 +17,7 @@
 <p>A Tecsus é uma startup que coleta e realiza processamentos de dados atráves de redes de sensores sem fio, denominados, também, Internet das Coisas, o IoT, na área de utilidades, como por exemplo abastecimento de água, distribuição de eletricidade e gás natural. A partir disso, com o intuito de expandir seu portfólio para o monitoramento ambiental e envolver alunos do Ensino Médio com a aprendizagem baseada em problemas, a Tecsus optou por desenvolver estações meteorológicas de baixo custo.</p>
 <p>Para o sucesso desse projeto, as medidas enviadas pelos sensores devem ser coletadas e tratadas, de modo que elas possam ser visualizadas através de um portal no formato de relatórios e dashboards. Além da parte informativa, contando até mesmo com a apresentação de conceitos matemáticos para os cálculos dos parâmetros, o sistema tem como objetivo relacionar a importância do monitoramento ambiental como ferramenta para evitar possíveis desastres naturais através da geração de alertas.</p>
 
- #### 📌 Status do projeto: Em andamento.
+ #### 📌 Status do projeto: Finalizado e pode ser acessado por <a href="https://theachievers-front-end.vercel.app/">aqui</a>! ✅ 
   
  <br>
  
@@ -104,6 +102,7 @@ A integração contínua e a entrega contínua são práticas fundamentais para 
 
 > 🔗 Links gerais
 > <ul>
+> <li>Link do site: <a href="https://theachievers-front-end.vercel.app/">acesse aqui!</a></li>
 > <li>Wireframe: <a href="https://www.figma.com/file/MvYhyKq2TaN2vVJoPkaEJZ/API-2023.1?node-id=0%3A1&t=m60PmBQvBUdoQvKY-1">acesse aqui!</a></li>
 > <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2023.1-Back-End-System.git">acesse aqui!</a></li>
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2023.1-Front-End-Web.git">acesse aqui!</a></li>
